@@ -68,7 +68,7 @@ def copy_password():
 #WINDOW
 
 root = tk.Tk()
-root.title("Dark Password Generator")
+root.title("Password Generator")
 root.geometry("500x600")
 root.config(bg="#0f172a")   # Dark navy background
 root.resizable(False, False)
